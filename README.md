@@ -13,9 +13,9 @@
 <img align="right" height="200" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1631586094869/LzT5FPLLH.gif?auto=format,compress&gif-q=60&format=webm"  />
 
 ###
-<h3 align="left">About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="30" width="30" /></h3>
+<h3 align="left">About Me </h3>
 <p align="left"> 🔭 I’m currently working on Tykkera (https://www.tykkera.com/)</p>
-<p align="left">🌱 I'm searching to learn: Pyton and typescript </p>
+<p align="left">🌱 I'm searching to learn: Python and typescript </p>
 <p align="left">⚡ Fun fact: I consider myself an empathetic person, good at comunicating. I'm a detail person so I continuously look to improve. I'm proactive, trying find eficient solutions to the problems that may surge.</p>
 
 <div align="center">

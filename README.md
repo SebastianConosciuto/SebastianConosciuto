@@ -14,7 +14,6 @@
 
 ###
 <h3 align="left">About Me </h3>
-<p align="left"> 🔭 I’m currently working on Tykkera (https://www.tykkera.com/)</p>
 <p align="left">🌱 I'm searching to learn: Python and typescript </p>
 <p align="left">⚡ Fun fact: I consider myself an empathetic person, good at comunicating. I'm a detail person so I continuously look to improve. I'm proactive, trying find eficient solutions to the problems that may surge.</p>
 

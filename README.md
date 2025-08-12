@@ -14,7 +14,6 @@
 
 ###
 <h3 align="left">About Me </h3>
-<p align="left">🌱 I'm searching to learn: Python and typescript </p>
 <p align="left">⚡ Fun fact: I consider myself an empathetic person, good at comunicating. I'm a detail person so I continuously look to improve. I'm proactive, trying find eficient solutions to the problems that may surge.</p>
 
 <div align="center">
@@ -42,9 +41,6 @@
 
 <div align="center">
   <h4 >Connect with me:</h4>
-  <a href="https://www.instagram.com/seba.conos/">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="mailto:conosciutosebastian@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>

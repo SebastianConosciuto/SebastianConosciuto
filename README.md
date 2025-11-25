@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Sebastián Gonzalez Conosciuto</h1>
 <h3 align="center">🎓A junior frontend developer 🎓</h3>
 
-<img align="right" height="200" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1631586094869/LzT5FPLLH.gif?auto=format,compress&gif-q=60&format=webm"  />
-
 ###
 <h3 align="left">About Me </h3>
 <p align="left">I consider myself an empathetic person, good at comunicating. I'm a detail person so I continuously look to improve. I'm proactive, trying find eficient solutions to the problems that may surge.</p>

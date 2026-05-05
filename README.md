@@ -71,6 +71,7 @@ Aprendizaje rápido · Orientado al detalle · Disponibilidad remota o presencia
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://sgc.portfolio.apps.orquesta.consulting/)
 [![Gmail](https://img.shields.io/badge/conosciutosebastian@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:conosciutosebastian@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-gonzalez-conosciuto/)
 
